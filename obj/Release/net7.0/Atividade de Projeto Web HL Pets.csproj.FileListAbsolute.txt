@@ -1,0 +1,34 @@
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\appsettings.Development.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\appsettings.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\Atividade de Projeto Web HL Pets.staticwebassets.runtime.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\Atividade de Projeto Web HL Pets.exe
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\Atividade de Projeto Web HL Pets.deps.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\Atividade de Projeto Web HL Pets.runtimeconfig.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\Atividade de Projeto Web HL Pets.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\Atividade de Projeto Web HL Pets.pdb
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\System.Data.SqlClient.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.csproj.AssemblyReference.cache
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.AssemblyInfoInputs.cache
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.AssemblyInfo.cs
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.csproj.CoreCompileInputs.cache
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets\msbuild.Atividade de Projeto Web HL Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets\msbuild.build.Atividade de Projeto Web HL Pets.props
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.Atividade de Projeto Web HL Pets.props
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.Atividade de Projeto Web HL Pets.props
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets.pack.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets.build.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\staticwebassets.development.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\scopedcss\bundle\Atividade de Projeto Web HL Pets.styles.css
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.csproj.CopyComplete
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\refint\Atividade de Projeto Web HL Pets.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.pdb
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\Atividade de Projeto Web HL Pets.genruntimeconfig.cache
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\obj\Release\net7.0\ref\Atividade de Projeto Web HL Pets.dll

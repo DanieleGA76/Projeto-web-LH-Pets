@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Atividade_de_Projeto_Web_HL_Pets
+build_property.RootNamespace = Atividade_de_Projeto_Web_HL_Pets
+build_property.ProjectDir = C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets
+build_property._RazorSourceGeneratorDebug = 

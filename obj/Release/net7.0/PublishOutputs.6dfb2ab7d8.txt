@@ -1,0 +1,13 @@
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\Atividade de Projeto Web HL Pets.exe
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\appsettings.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\Atividade de Projeto Web HL Pets.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\Atividade de Projeto Web HL Pets.deps.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\Atividade de Projeto Web HL Pets.runtimeconfig.json
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\Atividade de Projeto Web HL Pets.pdb
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programador Full-Stack\Codificação Back-End\Atividade de Projeto Web HL Pets\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

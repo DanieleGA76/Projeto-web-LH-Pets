@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "aBigixl2XReMfZdNme7CQIfxTjMXS25wmHLF/npHDpM=",
+  "Source": "Atividade de Projeto Web HL Pets",
+  "BasePath": "_content/Atividade de Projeto Web HL Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade de Projeto Web HL Pets\\wwwroot",
+      "Source": "Atividade de Projeto Web HL Pets",
+      "ContentRoot": "C:\\Programador Full-Stack\\Codificação Back-End\\Atividade de Projeto Web HL Pets\\wwwroot\\",
+      "BasePath": "_content/Atividade de Projeto Web HL Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Programador Full-Stack\\Codificação Back-End\\Atividade de Projeto Web HL Pets\\wwwroot\\index.html",
+      "SourceId": "Atividade de Projeto Web HL Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Programador Full-Stack\\Codificação Back-End\\Atividade de Projeto Web HL Pets\\wwwroot\\",
+      "BasePath": "_content/Atividade de Projeto Web HL Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
